@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Loop Firebase Test</title>
+</head>
+<body>
+  <h1>Loop Firebase Test</h1>
+  <button id="run-test" type="button" disabled>
+    Test sign-in and database
+  </button>
+  <pre id="result" role="status">Loading Firebase…</pre>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js";
+    import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-auth.js";
+    import { getFirestore, collection, addDoc, getDocFromServer } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-firestore.js";
+
+    // Replace this declaration with your Firebase web app configuration.
+    const firebaseConfig = {};
+
+    const button = document.querySelector("#run-test");
+    const result = document.querySelector("#result");
+
+    if (!firebaseConfig.apiKey || !firebaseConfig.projectId) {
+      result.textContent = "Add your Firebase web app configuration, then reload this page.";
+    } else {
+      const app = initializeApp(firebaseConfig);
+      const auth = getAuth(app);
+      const db = getFirestore(app);
+
+      button.disabled = false;
+      result.textContent = "Ready to test.";
+
+      button.addEventListener("click", async () => {
+        button.disabled = true;
+        let step = "Anonymous sign-in";
+        result.textContent = "Signing in anonymously…";
+
+        try {
+          await signInAnonymously(auth);
+
+          step = "Firestore write";
+          result.textContent = "Signed in anonymously. Writing test data…";
+          const documentRef = await addDoc(collection(db, "practice"), {
+            message: "Hello Loop"
+          });
+
+          step = "Firestore read";
+          result.textContent = "Test data written. Reading it back…";
+          const snapshot = await getDocFromServer(documentRef);
+
+          if (snapshot.data()?.message !== "Hello Loop") {
+            throw new Error("The document did not contain the expected message.");
+          }
+
+          result.textContent = [
+            "Anonymous sign-in successful.",
+            `Read from Firestore: ${snapshot.data().message}`,
+            `Document ID: ${snapshot.id}`
+          ].join("\n");
+        } catch (error) {
+          result.textContent = `${step} failed: ${error.code ?? error.message}`;
+          console.error(error);
+        } finally {
+          button.disabled = false;
+        }
+      });
+    }
+  </script>
+</body>
+</html>
