@@ -1,0 +1,947 @@
+WELCOME TO
+DURHACK 2026
+
+
+
+WHAT IS DURHACK?
+You have 24 hours to solve a real world problem using tech, and learn something new!
+
+Before we reveal our theme,
+here are some important messages…
+ 
+
+Workshops
+SGX FX Workshop:  13:15 (TLC033)
+P&G Workshop: 13:15 (TLC042)
+QRT Workshop: 14:15 (TLC042)
+Marshall Wace: 15:15 (TLC033)
+MLH CoPilot Workshop: 18:00 (TLC033) 
+
+WEEKEND SCHEDULE
+
+FOOD
+We will provide all meals!
+
+Food will be served on the ground floor.
+
+Eating is not allowed in rooms.
+
+Use your wristbands to collect your meals.
+
+Estimated Times:
+Lunch: 12:15
+Dinner: 17:30
+Midnight Pizza provided by QRT: 00:00
+Sunday Breakfast: 09:30
+Sunday Lunch: From 11:30
+
+                We will send you to meals in waves, based on your Guild.
+MEALS
+
+INTRODUCING OUR NEW GUILDS…
+
+
+
+Saturday
+Cup Stacking with HUK - 16:15 in the Atrium
+Tech Together - 18:00 (TLC 124)
+Board Games + Tote Bag Painting - 19:00 in the Atrium
+Algorave - 19:00 (TLC 042)
+Mario Kart - 21:30 (TLC 033)
+The Ultimate Quiz - 22:00 (TLC 042)
+Sunday
+Morning walk - 09:00 Meet in the Atrium
+MINI EVENTS
+
+HACKPACKS
+Suitable for complete beginners to more advanced programmers, we have prepared a range of ‘HackPacks’ for you that give you all the basics you need to know to try out a new technology or software! 
+
+We have HackPacks on GitHub,  Web Dev, and Machine Learning.
+
+Scan the QR code on the next screen to access them!
+
+
+
+
+
+
+
+HACKPACKS
+
+FIRE SAFETY
+If the fire alarm goes off, please exit via the nearest fire escape marked on the map, or see the green running person signs.
+
+Make your way to the fire assembly point just outside the front of the building.
+
+There are no fire drills planned this weekend.
+
+FIRST AID
+If there is an injury, please contact one of the Organisers.
+
+In an emergency, contact 999. The building postcode is DH1 3LS.
+
+SlEEPING SPACES
+This year, we will have a sleeping space.
+
+This will be in TLC123.
+
+Feel free to ask an Organiser or Volunteer where to find this!
+
+Please consider getting some sleep. Please.
+
+Ask for help!
+Help desk
+Volunteers and organisers (see our t-shirts)
+Discord!
+QUESTIONS?
+
+JOIN OUR DISCORD
+
+@durhackevent
+@DurHack
+@DurHack
+@DurHack_press
+
+NOW A WORD FROM OUR PARTNERS…
+
+Partners
+
+
+
+
+AND NOW TO INTRODUCE OUR SPONSORS!
+
+Hello DurHack!
+
+What do we do?
+Software
+Cyber
+Security
+Data & AI
+Managed
+Services
+Technology
+Solutions
+Advisory
+Services
+
+Our Challenge& Prize
+Improve the world by connecting things that usually aren't
+
+Raspberry Pi Pico
+Raspberry Pi Pico Inventors Kit
+
+Come and chat to us!We’re on the second floor of the TLC
+
+Happy Hacking!
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ELVIS TINAGO – EDUCATION COMMUNITY ENGINEER 
+DURHACK 2026
+30
+
+WHO ARE RS?
+>1m
+global customers
+60%
+Revenue through
+digital channels
+>2,500
+Suppliers
+We are one brand, globally connected, locally delivered. We serve individuals who build and maintain industrial assets and infrastructure across a range of industry verticals. We are experts in solving their business needs.
+c. 8,500
+employees
+RS GROUP BRAND PROPOSITION
+31
+
+Texas
+China
+Japan
+Hong Kong
+Thailand
+Philippines
+Singapore
+Malaysia
+Australia
+New Zealand
+South Africa 
+Mexico
+Ireland 
+UK
+Netherlands
+Germany
+Switzerland
+France
+Italy
+Spain
+New Jersey 
+Dominican Republic
+Chile
+India
+WHERE DO WE OPERATE?
+Key:
+  Global distribution centre  Replenishment and fulfilment   across the globe 
+  Regional distribution centre  Replenishment and fulfilment   across a region
+  Local fulfilment centre  Fulfilment within a market
+  RS Integrated Supply office
+  Countries with RS presence
+  Export countries
+>830,000
+stocked products
+>5m
+unstocked products
+7
+global/regional distribution centres
+33
+countries
+Operations in
+32
+RS GROUP BRAND PROPOSITION
+32
+
+Presentation Title
+
+CHALLENGE: BUILD AN INTELLIGENT SYSTEM THAT CAN SENSE, ANALYSE AND RESPOND TO REAL WORLD  
+• Capture data from the environment​
+• Analyse sensor inputs​
+• Make a decision​
+• Trigger an action​
+​
+
+
+Example solutions:​
+Smart safety monitoring​
+Predictive maintenance​
+Environmental sensing​
+Accessibility solutions​
+
+MANDATORY HARDWARE
+Arduino UNO Q​
+Camera​
+USB Hubs
+OPTION MODULES
+Sensors 
+Nodes
+Prizes for 1st, 2nd & 3rd Place | Hardware available through 
+the Product Loan Library
+34
+
+RS ENGINEERS OF TOMORROW COMMUNITY
+Newsletter
+Instagram @rsyouthcommunity
+6
+JOIN IN.
+35
+
+JOIN THE RS GLOBAL YOUTH COMMUNITY!
+
+Top floor of the TLC!
+HARDWARE LIBRARY
+
+Trade your student ID
+HARDWARE LIBRARY
+
+HARDWARE LIBRARY
+Queue to borrow or return
+
+HARDWARE LIBRARY
+Remember your table number
+
+3D PRINTER
+#3d-print-info
+
+DURHACK 2026
+Neptune North
+Challenge
+Actors work better together
+Neptune North · DurHack 2026 · 14–15 November
+Careers
+42
+
+NEPTUNE NORTH CHALLENGE
+About Neptune North
+Neptune North is an international technology consultancy. We build data, AI and software solutions for clients in the finance and defence sectors.
+We’re headquartered in Newcastle, just up the road, with clients and colleagues around the globe.
+OUR PURPOSE
+“Exceptional talent delivering exceptional solutions.”
+Neptune North · DurHack 2026 Challenge · 14–15 November
+2
+Careers
+43
+
+NEPTUNE NORTH CHALLENGE
+Challenge background
+Modern technology often relies on multiple systems collaborating on a common goal. For example, drones in a light show; robots in fulfilment centres; or LLMs solving different parts of a large problem.
+In some situations, communication between these systems is unreliable or unavailable. When this happens, each actor needs to be able to operate without receiving instructions from a central hub.
+We want you to design an approach to a problem which involves systems working together in a distributed fashion, even when communications are interrupted.
+Neptune North · DurHack 2026 Challenge · 14–15 November
+3
+Careers
+44
+
+NEPTUNE NORTH CHALLENGE
+For example, you could…
+Search and rescue drones
+Coordinate a drone swarm that splits up a search area and keeps covering it when some drones lose contact.
+Warehouse robots
+Design robots that share out picking jobs and avoid collisions without waiting for a central scheduler.
+Teams of AI agents
+Have several LLM agents divide up a large problem, keep working when cut off, and merge their results when they reconnect.
+Remote sensor networks
+Build sensors that agree on what they’re seeing in a remote area, even when only some of them can talk to each other.
+Neptune North · DurHack 2026 Challenge · 14–15 November
+4
+Careers
+45
+
+NEPTUNE NORTH CHALLENGE
+Judging criteria
+Working towards a common goal
+Multiple actors should work together to solve a problem
+Independent decision-making
+Each actor makes decisions independently to support the group
+Resilience when communications fail
+Actors can still make some progress, even when they can’t communicate
+Something you’re excited about
+Solve a problem that’s interesting to you, in a way that’s interesting to you
+Neptune North · DurHack 2026 Challenge · 14–15 November
+5
+Careers
+46
+
+NEPTUNE NORTH CHALLENGE
+The prizes
+FIRST PLACE TEAM
+£1,000 voucher
+to share across the team
+RUNNER UP TEAM
+Mechanical keyboards
+for the team
+Neptune North · DurHack 2026 Challenge · 14–15 November
+6
+Careers
+47
+
+Good luck!
+We can’t wait to see what you build
+Neptune North · DurHack 2026 · 14–15 November
+Careers
+48
+
+Introduction to Accenture
+November 2026
+
+Rhianna Ayson, Idrees Hussain, Oscar Hassall, Nick Day & Tom Quirk.
+FY27
+
+200+
+Cities with Accenture locations and operations, across 52 countries.
+90
+Clients served throughout more than 120 countries.
+800,000
+Global resources powering client delivery and impactful change.
+5
+Client Groups served across Accenture including H&PS, CMT, PRD, RES & FS
+
+ATC NewcastleAs part of our European and global ATC (Advanced technology Centre) network, Newcastle’s 1000‑strong workforce plays a critical role in supporting the UK business.
+EXPERTISE
+Serving over 50+ clients inc. Government, Financial Institutions, Communications, Automotive and Energy companies with our key capabilities spanning Full Stack & Front-End Engineering, Data & AI, DevOps, DesignOps, Quality Engineering, Functional Analysis, Architecture and Delivery Excellence.
+KEY LOCATION
+Located in one of UK’s largest office parks with a vibrant business community in the North-East.
+COMMUNITY
+Groups make the best workplace! 
+Inclusion and Diversity is embedded into our culture where everyone feels respected.
+Individual and Team Recognition is encouraged and widely given.
+3 days to dedicate to charitable or volunteering causes.
+Copyright © 2025 Accenture. All rights reserved.
+51
+OPPORTUNITY
+Focus on trainings, with 5 training days allowing time to upskill and lead the way with latest technology.
+
+Software Engineering
+Working with emerging technologies, you’ll help build, test and deploy technical solutions for our clients.
+Technology Analyst
+Working across the delivery lifecycle from helping to shape the requirements and solution through to helping test and implement solutions. 
+Proj. Management
+Driving and delivering business transformation for our clients and the world through designing, building, testing and deploying strategic solutions for them. 
+Apply for this role: if you want to use your technical coding skills in your career as a Software Engineer.
+Apply for this role: if you have a passion for technology and can understand and communicate technical ideas.
+ 
+Apply for this role: if you want to focus on relationship management with a tech perspective. *NOW CLOSED*
+Graduate Programmes
+Now OPEN for September 2027 through to August 2028.
+
+Copyright © 2024 Accenture. All rights reserved.
+53
+HACKATHON CHALLENGE:Identify a frustrating process people accept as “just the way things work” and redesign it using modern AI and LLMs.
+53
+
+Prizes
+What we’re looking for?
+
+Problem & User Pain
+Innovation & Reimagination
+Effective use of AI & LLMs
+Impact & Value
+Prototype & Technical Execution
+Responsible AI & Feasibility
+
+Our Career Opportunities
+Please scan the QR code to apply and for more information around all our career opportunities.
+Including:
+
+ - All Graduate Programmes:
+Software Engineering
+Technology Analyst
+Program and Project Management
+Internships
+Placements
+55
+
+Happy Hacking!
+Any Questions? Come see us!
+TG
+TQ
+56
+
+Explore Ideas with Venture Lab
+Support for any idea at any stage
+Range of opportunities, inc. visits to India and Silicon Valley
+VL will award over £100,000 in prize money this academic year
+Supported startups have raised £40m since VL opened in 2020
+
+Hi, we're SGX FX
+
+WHAT l S FX?
+Ever changed money for a holiday?
+What I have
+Swapping one currency for another = FX.
+A bad rate on holiday costs you a cocktail. For a business, it costs a lot more.
+
+Imagine you're Ford, buying German motors
+
+BACK IN THE DAY...
+Traders used to phone banks one at a time
+Bank A
+"Here's my price...“
+Bank B
+"No, MY price...“
+Bank C
+"Please hold...“
+SLOW! By the time Bank C picks up, Bank A's price has changed!
+
+WHAT WE DO
+One platform. Everg price. No hold music.
+Bank A
+Bank B
+Bank C
+Trader sees the best deal
+A financial exchange trading platform —all the info in one place.
+
+
+CHALLENGE 1
+Protect 9our assets from a trading
+market storm
+Cloudy with a chance of margin calls
+Build something that helps traders...
+Stag safe
+Keep traders' money safe when things get rocky
+Earlg warning
+Spot danger and alert traders early
+Predict what's next
+Understand the risk and predict what's next
+Spot opportunities
+Turn the chaos into profit
+We provided our historical pricing data but you can use ANY data
+
+Get creative ïn the tradïng market storm
+
+
+We’re hïrïng grads!
+Grad schemes
+Get in touch
+
+Marshall Wace / Durhack
+   
+Marshall Wace x DurHack
+68
+
+“Our people are our greatest asset, and we invest heavily in them”
+1As at 30 June 2026, this includes active partners. 
+2 Marshall Wace ranks in the top 20 largest hedge fund managers by assets under management in the FY 2025 With Intelligence Global Billion Dollar Club: The top 500 managers report.  No fee was paid by Marshall Wace to be included on the list. With Intelligence carried out the report objectively without MW influencing or seeking to influence the outcome of the review. The ranking given to Marshall Wace is not indicative of future performance.
+3As at 1 September 2026.
+In September 2015, KKR & Co. Inc. ("KKR") entered into a definitive agreement with Marshall Wace to form a long-term strategic partnership. Under the terms of the agreement, KKR initially acquired an interest in Marshall Wace through a combination of cash and stock with the right to grow KKR’s ownership interest over time, up to a minority interest under 40%.
+Source: Marshall Wace LLP
+Who We Are
+Overview
+MARSHALL WACE
+(Quarterly) People
+https://p-eu-ddqbank.prod.mwam.local/#/question/7210
+Partnershttps://p-eu-ddqbank.prod.mwam.local/#/question/6099
+Founded In
+1997
+by Paul Marshall & Ian Wace
+People1
+Global Team Of
+782
+including 336 investment specialists and 38 active partners
+Operating Out Of
+7 
+Offices
+across 4 key time zones within Europe, Asia, North America and the Middle East
+Founder Signatory Of The
+Best Practice Standards
+set out by the Standards Board for Alternative Investments
+A Leading
+Global Equity Long/Short Manager2
+Managing
+$92.6
+bn3
+total AUM
+More Than
+25 
+Years
+of consistent commitment to the interest of investors with no fund level gates imposed or NAVs suspended by funds we manage
+We Are 
+Marshall 
+Wace
++
+Signatory Of The
+UN-Supported Principles for Responsible Investment
+
+69
+69
+
+650+
+            GLOBAL EMPLOYEES
+PHD
+RESEARCHERS
+Marshall Wace
+Technology at 
+Marshall Wace
+Technology and data have been at the core of our business for 25+ years. We continuously invest in our systems, data, and infrastructure in our efforts to maximise the scalability of our business while minimising operational risk.
+Fundamental strategies
+Small
+~800 employees,  ~200 developers​
+Flat
+Open collaboration within and between teams
+Meritocratic
+As much responsibility and autonomy as you can handle
+All materials, unless otherwise stated, have been sourced internally and are accurate as at October 2025. The materials are for information purposes only and do not constitute investment advice or marketing material'
+70
+
+71
+
+Join Us 
+Internship
+10 weeks (29/06 - 04/09)
+Open to 2027/2028 grads
+Work on a project within one team
+
+
+What we look for
+
+Strong communicator
+Passion for technology
+STEM degree
+Critical thinking
+What we don’t look for
+
+Knowledge of finance
+A computer science degree
+all leading to:
+Graduate scheme
+18-24 months
+London, New York,       Hong Kong, Singapore
+Rotational
+All materials, unless otherwise stated, have been sourced internally and are accurate as at October 2025. The materials are for information purposes only and do not constitute investment advice or marketing material'
+6-month AI placement
+6 months  (March - September)
+London
+Work on multiple projects within our AI team
+
+
+72
+
+All materials, unless otherwise stated, have been sourced internally and are accurate as at October 2025. The materials are for information purposes only and do not constitute investment advice or marketing material'
+MICROGPT WORKSHOP
+Train a tiny language model on your laptop
+and see if it can tell good movie reviews from bad ones
+review> i expected to hate it , but it was charming
+  sentiment: 100% positive
+  continues: ... it's a good looking , great , good movie
+There are prizes to win!
+73
+
+All materials, unless otherwise stated, have been sourced internally and are accurate as at October 2025. The materials are for information purposes only and do not constitute investment advice or marketing material'
+WHAT YOU WILL DO
+Run your own experiments
+74
+
+Challenge
+Make a project that explores the idea of New Worlds.
+
+Build something that opens a door to the unexplored, whether that's new data, ideas or something novel no one has seen before.
+
+Interpret the theme however you think best captures the spirit of this idea! 
+
+Please come and chat to us if you're looking for inspiration!
+
+
+
+
+
+
+
+
+All materials, unless otherwise stated, have been sourced internally and are accurate as at October 2025. The materials are for information purposes only and do not constitute investment advice or marketing material'
+At Marshall Wace we have many complex systems that need to react to stakeholders, data, or evolving technology. 
+
+75
+
+Prizes
+All materials, unless otherwise stated, have been sourced internally and are accurate as at October 2025. The materials are for information purposes only and do not constitute investment advice or marketing material'
+At Marshall Wace we have many complex systems that need to react to stakeholders, data, or evolving technology. 
+
+76
+
+Challenge
+We’d like to see:
+
+Creativity
+Technical complexity
+Good presentation
+
+Do what you're interested in!
+All materials, unless otherwise stated, have been sourced internally and are accurate as at October 2025. The materials are for information purposes only and do not constitute investment advice or marketing material'
+77
+
+Join us on Discord!
+78
+
+
+
+79
+
+A COMPANY OF LEADING BRANDS
+FABRIC & HOME CARE
+FAMILY CARE & P&G VENTURES
+BEAUTY
+GROOMING
+HEALTH CARE
+BABY & FEMININE CARE
+Who are we? Company of superior brands serving the worlds consumers across 6 major product categories. 
+At P&G we put the consumer at the heart of everything we do, ensuring we deliver 
+80
+
+65
+LEADING BRANDS
+CONSUMERS USE OUR BRANDS
+5B
+40K
+WOMEN 
+AND GROWING
+>145
+NATIONALITIES 
+MAKE UP OUR WORKFORCE
+180
+COUNTRIES SELL OUR BRANDS
+NET 
+SALES
+65B
+The P&G portfolio spans 180 countries, and our brands are trusted by 5B consumers 
+The P& G people are equally diverse, and we attract talent from across the world, and are increasingly looking to enable the future with digital transformation – unlocking deeper consumer insights and accelerating brand superiority at a global scale 
+
+81
+
+2,807 employees in:
+3 Commercial sites
+2 Innovation Centres
+4 Manufacturing sites
+1 Global Business Services site
+
+Newcastle
+Cobalt Park GO – GBS & SMO
+NIC – Detergents/ADW/Hygiene
+Harrogate
+SMO
+Manchester
+Plant - Pampers
+
+West Thurrock
+London Plant - Fairy
+Weybridge
+Head Office
+Reading
+RIC – Grooming/Personal Health Care/Microbiology
+Plant - Gillette
+P&G IN THE UK
+Skelmersdale
+DC
+
+Why are we here? We have a significant UK presence across a number of functions – today, we are representing our Innovation centres and GBS site as a combined P&G force 
+P&G continued to be very interconnected, and we want to partner with the best talent to strengthen these connections across the business, the brands, the products and our digital capabilities 
+82
+
+2,807 employees in:
+3 Commercial sites
+2 Innovation Centres
+4 Manufacturing sites
+1 Global Business Services site
+
+Newcastle
+Cobalt Park GO – GBS & SMO
+NIC – Detergents/ADW/Hygiene
+Harrogate
+SMO
+Manchester
+Plant - Pampers
+
+West Thurrock
+London Plant - Fairy
+Weybridge
+Head Office
+Reading
+RIC – Grooming/Personal Health Care/Microbiology
+Plant - Gillette
+P&G IN THE UK
+Skelmersdale
+DC
+
+Why are we here? We have a significant UK presence across a number of functions – today, we are representing our Innovation centres and GBS site as a combined P&G force 
+P&G continued to be very interconnected, and we want to partner with the best talent to strengthen these connections across the business, the brands, the products and our digital capabilities 
+83
+
+2,807 employees in:
+3 Commercial sites
+2 Innovation Centres
+4 Manufacturing sites
+1 Global Business Services site
+
+Newcastle
+Cobalt Park GO – GBS & SMO
+NIC – Detergents/ADW/Hygiene
+Harrogate
+SMO
+Manchester
+Plant - Pampers
+
+West Thurrock
+London Plant - Fairy
+Weybridge
+Head Office
+Reading
+RIC – Grooming/Personal Health Care/Microbiology
+Plant - Gillette
+P&G IN THE UK
+Skelmersdale
+DC
+
+Why are we here? We have a significant UK presence across a number of functions – today, we are representing our Innovation centres and GBS site as a combined P&G force 
+P&G continued to be very interconnected, and we want to partner with the best talent to strengthen these connections across the business, the brands, the products and our digital capabilities 
+84
+
+2,807 employees in:
+3 Commercial sites
+2 Innovation Centres
+4 Manufacturing sites
+1 Global Business Services site
+
+Newcastle
+Cobalt Park GO – GBS & SMO
+NIC – Detergents/ADW/Hygiene
+Harrogate
+SMO
+Manchester
+Plant - Pampers
+
+West Thurrock
+London Plant - Fairy
+Weybridge
+Head Office
+Reading
+RIC – Grooming/Personal Health Care/Microbiology
+Plant - Gillette
+P&G IN THE UK
+Skelmersdale
+DC
+
+Why are we here? We have a significant UK presence across a number of functions – today, we are representing our Innovation centres and GBS site as a combined P&G force 
+P&G continued to be very interconnected, and we want to partner with the best talent to strengthen these connections across the business, the brands, the products and our digital capabilities 
+85
+
+2,807 employees in:
+3 Commercial sites
+2 Innovation Centres
+4 Manufacturing sites
+1 Global Business Services site
+
+Newcastle
+Cobalt Park GO – GBS & SMO
+NIC – Detergents/ADW/Hygiene
+Harrogate
+SMO
+Manchester
+Plant - Pampers
+
+West Thurrock
+London Plant - Fairy
+Weybridge
+Head Office
+Reading
+RIC – Grooming/Personal Health Care/Microbiology
+Plant - Gillette
+P&G IN THE UK
+Skelmersdale
+DC
+
+Why are we here? We have a significant UK presence across a number of functions – today, we are representing our Innovation centres and GBS site as a combined P&G force 
+P&G continued to be very interconnected, and we want to partner with the best talent to strengthen these connections across the business, the brands, the products and our digital capabilities 
+86
+
+P&G x DURHACK – OUR CHALLENGES
+CHALLENGE 1
+CHALLENGE 2
+Innovating with complex receipt data for consumer & business insights
+Understanding product performance through novel sensor approaches in baby/fem
+Use digital to enable future of P&G business, deliver superior products globally 
+
+Connect the next generation of talent to our consumer & business challenges
+
+87
+
+DurHack 2026
+Discover Qube Research & Technologies
+November 2026
+
+QRT - Who We Are
+Société Générale
+2000-2009
+Global Arbitrage trading
+Crédit Suisse
+2009-2016
+Systematic Market Trading
+QRT
+2016 - Present
+Quantitative Asset Manager
+Independent Investment Manager with multiple offices across Europe, Asia, and the US
+20+ years track record in Quantitative and Systematic trading
+Expertise in high-turnover strategies
+2018
+$1bn
+2026
++$45bn
+2022
+$8bn
+AUM* Growth in USD
+*Assets Under Management
+1.7.2013
+Let's start by tracing our roots back to Société Générale, where from 2000 to 2009, we honed our skills in Global Arbitrage trading. This foundational experience set the stage for our next chapter with Crédit Suisse, where between 2009 and 2016, we embraced Systematic Market Trading. 
+
+In 2016, the leadership team who managed the Qube fund spun out of Credit Suisse to become Qube Research and Technologies, an independent investment manager with a strong presence across Europe, Asia, and the US. Our global footprint enables us to leverage diverse market dynamics to our advantage.
+
+Our AUM is now above 45bn$.
+‹#›
+
+Data 
+Engineering
+Software Engineering
+Quantitative
+Research
+Quantitative
+Trading
+Infrastructure
+Engineering
+Cybersecurity
+Support Engineering
+Quantitative
+Development
+The Teams Behind our Performance
+1.7.2013
+None of this happens by chance: behind every one of these strategies are teams of researchers, traders, and engineers working together to transform ideas into live investment models. 
+
+Here is the variety of technical roles our team us made up of.
+
+Let's take a closer look at a few of these roles, like our Quantitative Developers and Data Engineers.
+‹#›
+
+https://qrt-qubedata.slack.com/archives/C0C498Y6JE9/p1791565069749019
+Our Challenges 
+Tagged: Information Hidden in Plain Sight - Invent a physical language that encodes digital information
+
+Spray n' Tag CTF - Put your cybersecurity skills to the test in a Capture The Flag (CTF) competition
+Additional mini-challenges through-out, with extra prizes!
+
+For more information on all the above, 
+head to our Discord channel!
+1.7.2013
+Tagged: Information Hidden in Plain Sight challenges you to invent a physical language that encodes digital information. Build an encoder that transforms a three-word phrase into a tangible object, and a decoder that recovers the encoded words—relying solely on the encoded information, using no pre-existing machine-readable codes or plain text. Success demands robust real-world performance, creative concealment, and visual inconspicuousness.QRT Spray n' Tag CTF: Put your cybersecurity skills to the test in a Capture The Flag (CTF) competition hosted on Hack The Box! Tackle 15 hands-on challenges spanning FullPwn, Web Exploitation, OWASP vulnerabilities, Active Directory, Privilege Escalation, and Cryptography, designed to sharpen your problem-solving and ethical hacking skills in a competitive, real-world environment.
+
+Mini Challenges: Throughout the event we will be hosting a number of time-bound mini-challenges with a variety of technical and non-technical goals. These mini-challenges will be announced on an ad-hoc basis, so follow along in our Discord channel for more information, and to win some extra prizes!
+‹#›
+
+Prizes (each challenge) 
+1st : AirPods Pro
+2nd : Poker Sets 
+3rd : £100 Keyboard Voucher 
+
+To take part in our challenges: HEAD TO DISCORD
+Prizes listed are for the two main challenges
+Every team member receives the prize
+92
+
+QRT Workshop @ 2:15pm Saturday
+Discover Qube Research & Technologies
+November 2026
+
+SPIRIT OF THE DINO AWARD
+
+2ND PLACE OVERALL
+
+1ST PLACE OVERALL
+
+And now for the theme…
+DRUMROLL PLEASE!
+
+Our theme for this year is…
+We want to see creativity!
+
+Explore art, music and tech!
+
+We want to see idea mixing and trying new combinations!
+COMPOSITION
+
+Judging criteria:
+
+Creativity & Innovation
+Technical Competence & Execution
+Research & Learning
+Polish & Completion
+JUDGING
+
+TIPS
+Take a break! There are plenty of other activities that don’t involve hacking.
+
+Don’t be afraid to ask for help! Our organisers and volunteers are here to offer advice.
+
+Have fun and enjoy yourself- hackathons are great fun and full of incredible people!
+
+WHAT’S NEXT?
+Join the team-forming activity in the atrium if you’re looking for teammates.
+
+A maximum of four people is allowed per team.
+
+HACKING WILL BEGIN AT 12 NOON
+
+HAPPY HACKING!
